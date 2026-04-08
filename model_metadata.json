@@ -1,0 +1,21 @@
+{
+    "model_type": "ElasticNet",
+    "best_alpha": 0.001,
+    "cv_r2_Score": 0.6565283017252863,
+    "test_r2_Score": 0.6520099293289455,
+    "test_rmse": 0.6396238215560943,
+    "features_used": [
+        "MedInc",
+        "HouseAge",
+        "AveRooms",
+        "AveBedrms",
+        "Population",
+        "AveOccup",
+        "Latitude",
+        "Longitude",
+        "RoomsPerPerson",
+        "BedroomsRatio",
+        "BedroomsPerPerson"
+    ],
+    "training_date": "2026-04-08 13:33:09"
+}
